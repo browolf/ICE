@@ -1,0 +1,111 @@
+| Pool name | Lock amount | Lock date | Lock end |
+|---|---:|---|---|
+| 0x88bc4D80E358537bb8fCcEd94af11A81e4Be7673 | 12,945 | 2024-Mar-03 | 2024-Apr-01 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2024-Apr-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2024-Apr-08 |
+| 0x6595FC5f4cc3B7fD622B5e67e364fc67678cFaC5 | 4,014 | 2024-Mar-01 | 2024-Feb-29 |
+| 0xB4CB9ea7Bec9b61B66b8256e088aA7302dE20fD1 | 866 | 2024-Mar-01 | 2024-Feb-29 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2024-Jul-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2024-Jul-08 |
+| 0x988506D8c1e7F6062c8804A16B794C418A5493E9 | 31 | 2024-Mar-02 | 2024-Mar-01 |
+| 0xe598411eAd766066E4a570D0eA1e7864Ac519136 | 10,556 | 2024-Mar-01 | 2024-Mar-01 |
+| 0x2Eb91b31838B1FaA14798DfA0ae27C4B9d2dBb24 | 14 | 2024-Mar-03 | 2024-Mar-02 |
+| 0x185b5A6969eDf21Eb127F9E135D5EC0115BcF1c4 | 6,021 | 2024-Mar-11 | 2024-Mar-11 |
+| Dao Pool | 318,372 | 2024-Feb-29 | 2024-Oct-07 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2024-Oct-07 |
+| Team Pool | 530,620 | 2024-Feb-29 | 2024-Oct-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2024-Oct-07 |
+| Mining Pool | 720,849 | 2024-Feb-29 | 2024-Oct-07 |
+| Mining Pool | 130,433,104 | 2024-Feb-29 | 2024-Oct-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2024-Oct-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2024-Oct-08 |
+| 0xB96Dc13a525954A5D26Ec0D1071Caef77C880A8a | 2,197 | 2024-Mar-16 | 2024-Oct-10 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2025-Apr-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2025-Apr-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2025-Apr-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2025-Apr-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2025-Apr-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2025-Jan-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2025-Jan-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2025-Jan-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2025-Jan-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2025-Jan-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2025-Jul-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2025-Jul-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2025-Jul-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2025-Jul-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2025-Jul-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2025-Oct-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2025-Oct-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2025-Oct-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2025-Oct-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2025-Oct-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2026-Apr-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2026-Apr-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2026-Apr-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2026-Apr-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2026-Apr-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2026-Jan-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2026-Jan-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2026-Jan-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2026-Jan-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2026-Jan-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2026-Jul-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2026-Jul-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2026-Jul-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2026-Jul-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2026-Jul-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2026-Oct-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2026-Oct-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2026-Oct-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2026-Oct-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2026-Oct-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2027-Apr-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2027-Apr-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2027-Apr-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2027-Apr-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2027-Apr-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2027-Jan-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2027-Jan-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2027-Jan-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2027-Jan-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2027-Jan-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2027-Jul-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2027-Jul-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2027-Jul-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2027-Jul-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2027-Jul-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2027-Oct-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2027-Oct-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2027-Oct-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2027-Oct-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2027-Oct-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2028-Apr-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2028-Apr-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2028-Apr-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2028-Apr-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2028-Apr-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2028-Jan-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2028-Jan-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2028-Jan-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2028-Jan-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2028-Jan-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2028-Jul-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2028-Jul-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2028-Jul-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2028-Jul-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2028-Jul-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2028-Oct-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2028-Oct-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2028-Oct-07 |
+| Ecosystem Pool | 92,469,706 | 2024-Feb-29 | 2028-Oct-08 |
+| Treasury Pool | 92,469,706 | 2024-Feb-29 | 2028-Oct-08 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2029-Apr-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2029-Apr-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2029-Apr-07 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2029-Jan-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2029-Jan-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2029-Jan-07 |
+| Dao Pool | 158,613,112 | 2024-Feb-29 | 2029-Jul-07 |
+| Team Pool | 264,355,186 | 2024-Feb-29 | 2029-Jul-07 |
+| Mining Pool | 130,891,223 | 2024-Feb-29 | 2029-Jul-07 |
