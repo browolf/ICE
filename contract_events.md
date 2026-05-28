@@ -114,5 +114,10 @@ Bridge/router deployer/operator:
 
 Safe multisig owner used in router deployer:
 0xDFDe8108E14c70B6796bdd220454A80E849C7689
+
+ICE to ION  BSC Swap contract
+0x4A04Ba2c7e11e929d62761165d863505bAf95C7F
+
+
 ```
 Plain English: ICE started as a normal token, then got a bridge-compatible v2 wrapper, and later the system moved to an ION-branded bridge/token contract where ION itself is minted on BSC through oracle-approved bridge votes.
